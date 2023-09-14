@@ -7,10 +7,10 @@ P L A C E H O L D E R  --> Slides will be uploaded shortly after the conference.
 ## Checklists
 
 ### Does Your Metric Meet the “Scientific” Bar?
-[ ] Measurable, Reliable & Accurate
-[ ] Clear & Simple
-[ ] Timely & Sensitive
-[ ] Informative & Actionable
-[ ] MECE
-[ ] Reproducible & Standardised
+- [ ] Measurable, Reliable & Accurate
+- [ ] Clear & Simple
+- [ ] Timely & Sensitive
+- [ ] Informative & Actionable
+- [ ] MECE
+- [ ] Reproducible & Standardised
 
