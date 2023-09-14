@@ -1,8 +1,13 @@
 f# PyData-Amsterdam-2023
 Slides for "Power Users, Long Tail Users, and Everything In Between" Presentation - Dror Guldin and Alon Nir
 
+## Slides
 
 P L A C E H O L D E R  --> Slides will be uploaded shortly after the conference.
+
+## Video
+
+P L A C E H O L D E R  --> Video wil be added when it's available online
 
 ## Checklists
 
