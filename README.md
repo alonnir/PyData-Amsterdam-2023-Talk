@@ -3,7 +3,7 @@ Slides for "Power Users, Long Tail Users, and Everything In Between" Presentatio
 
 ## Slides
 
-P L A C E H O L D E R  --> Slides will be uploaded shortly after the conference.
+PDF available above 👆🏻 or directly [here](https://github.com/alonnir/PyData-Amsterdam-2023/blob/main/%5BSharing%20version%5D%20Pydata%20Amsterdam%202023_%20Dror%20Guldin%20%26%20Alon%20Nir_%20Choosing%20Meaningful%20Metrics%20and%20KPIs%20for%20Product%20Strategy.pdf).
 
 ## Video
 
