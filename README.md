@@ -39,4 +39,4 @@ P L A C E H O L D E R  --> Video wil be added when it's available online
 
 ## Additional Resources
 + [NPS Is The Worst](https://www.npsistheworst.com/) and [reasons to use NPS](https://www.npsistheworst.com/reasons-to-use-nps).
-+ [Balance - A python package for balancing biased data samples](https://import-balance.org/)
++ [Balance](https://import-balance.org/) - A python package for balancing biased data samples
