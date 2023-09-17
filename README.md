@@ -37,3 +37,6 @@ P L A C E H O L D E R  --> Video wil be added when it's available online
 - [ ] It doesn’t have to be “science” but it can’t be “alchemy”
 
 
+## Additional Resources
++ [NPS Is The Worst](https://www.npsistheworst.com/) and [reasons to use NPS](https://www.npsistheworst.com/reasons-to-use-nps).
++ [Balance - A python package for balancing biased data samples](https://import-balance.org/)
